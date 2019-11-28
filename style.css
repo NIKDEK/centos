@@ -222,6 +222,10 @@ footer{
     visibility: hidden;
 }
 
+#init a{
+    color:#bdc3c7;
+}
+
 @media (max-width:1000px){
     .nv{
         width: 90%;
